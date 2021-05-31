@@ -1,7 +1,7 @@
 ---
 title: "Remote Sensing Imagery Module: Google Earth and Planet Explorer Tutorial"
 author: "Elizabeth Madin"
-date: "21/05/2021"
+date: "`r format(Sys.Date())`"
 output: 
   github_document
   #html_document
@@ -9,7 +9,7 @@ output:
 
 ## Summary 
 
-Tutorial on key features of Google Earth Engine and Planet Explorer.  
+Tutorial on key features of Google Earth and Planet Explorer.  
 
 ## Goals
 

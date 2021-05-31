@@ -1,11 +1,11 @@
 Remote Sensing Imagery Module: Google Earth and Planet Explorer Tutorial
 ================
 Elizabeth Madin
-21/05/2021
+2021-05-30
 
 ## Summary
 
-Tutorial on key features of Google Earth Engine and Planet Explorer.
+Tutorial on key features of Google Earth and Planet Explorer.
 
 ## Goals
 
