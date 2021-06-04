@@ -61,7 +61,7 @@ Tutorial on key features of Google Earth and Planet Explorer.
     + save last polygon 
     + create "Measurements" folder in My Places and drag saved measurement in
 * GPS coordinates
-    + download the [GPS track for KBay sandbar](https://www.dropbox.com/s/ccjoiod4bsft46j/GPSTrack_KBaySandbar_FieldSiteExploration_2021_05.gpx?dl=0) (Annie's field site exploration!)
+    + download the [GPS track for KBay sandbar](https://www.dropbox.com/s/tu15mw2723mle5c/GPSTrack_KBaySandbar_FieldSiteExploration_2021_05.gpx?dl=0) (Annie's field site exploration!)
     + Tools -> GPS -> import from file -> import this track
 * Time Slider
     + Navigate to "Subi Reef" (in the South China Sea)
@@ -77,11 +77,11 @@ Tutorial on key features of Google Earth and Planet Explorer.
         - click through a few dates to present
         - how does imagery type and spatial resolution change over time?
 * Timelapse (for visualization of change)
-    + Open [Google Earth web's Timelapse feature](https://earth.google.com/web/@44.69848065,58.8251508,132a,821204d,35y,-1h,54t,0r/data=CjISMBIgNTQ0MGExNzMxYzI1MTFlYTk0NDM4YmI2ODk0NDUyOTciDG1haW5Ob1JhbmRvbQ)
+    + In Google Chrome (not Safari), open [Google Earth web's Timelapse feature](https://earth.google.com/web/@44.69848065,58.8251508,132a,821204d,35y,-1h,54t,0r/data=CjISMBIgNTQ0MGExNzMxYzI1MTFlYTk0NDM4YmI2ODk0NDUyOTciDG1haW5Ob1JhbmRvbQ)
         - note: this feature is only currently available in the web-, iPhone-, or Android-based Google Earth platforms (not desktop app)
         - you may need to log out of your Google account to view it
     + In the bottom right, click the circle with "3D" (if you only see in that says "2D", you're already in 3D)
-    + In the search bar, type "Palm Jumeirah" and watch the coastline
+    + In the *right hand* (not left hand) search bar, type "Palm Jumeirah" and watch the coastline
     + Naviagte to a [timelapse story](https://earth.app.goo.gl/SRcAV4) about soybean farming in Bolivia
     + on your own time, explore some of the cool pre-made timelapse stories
 * Resolution
